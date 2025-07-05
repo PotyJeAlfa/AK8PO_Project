@@ -8,7 +8,7 @@ Projekt je součast učení se s *Godot Engine* – důraz na čitelnost, smyslu
 ## 💡 Vlastnosti
 
 - Ovládání pomocí šipek (← ↑ → ↓)
-- Hra končí nárazem sebráním 7 krystalů
+- Hra končí sebráním 7 krystalů
 - Skóre odpovídá počtu sbraných krastalů
 - Jasně oddělené části:
   - `Player` – logika postavy
